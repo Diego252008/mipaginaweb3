@@ -1,12 +1,12 @@
 <html lang="en">
   <head>
+        <meta charset="utf-8">
+          <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="stylesheet" href="CSS/style.css">
         <link rel="stylesheet" href="CSS/bootstrap.min.css">
         <script src="js/bootstrap.js"></script>
         <script src="js/popper.min.js"></script>
         <script src="js/bootstrap.bundle.min.js"></script>
-     <meta charset="utf-8">
-           <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Derivadas</title>
   </head>
   <body>
